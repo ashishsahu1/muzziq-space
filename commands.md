@@ -1,4 +1,4 @@
-## Installations
+## Installations 
 
 ## Initial setup
 
@@ -12,3 +12,5 @@
     -     python .\manage.py migrate
 - run the server
     -     python .\manage.py runserver
+
+
